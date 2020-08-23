@@ -65,6 +65,8 @@ t1.entry_set.all()
 ```
 ctrl+D to exit shell on linux
 
+# 20.0.1 Use bootstrap3
+pip3 install django-bootstrap3 
 
 # Django Reference
 ## Django API
@@ -86,3 +88,5 @@ python manager.py flush
 ## bootstrap3 examples
 http://getbootstrap.com/getting-started/#examples
 
+## use tsinghua source for Django and django-bootstrap3 installation 
+pip install Django -i https://pypi.tuna.tsinghua.edu.cn/simple
